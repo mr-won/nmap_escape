@@ -1,7 +1,6 @@
 # nmap_escape
 nmap_escape_strings nice%20ports%2C/tri%6eity.txt
-디코딩 해보면 nice ports/trinity.txt가 나오는거같은데..
-
+디코딩 해보면 nice ports/trinity.txt가 나오는거같은데..리눅스 명령어 nice로 프로세스 우선순위 찾는거같기도하고..
 #ckeditor
 
 /ckeditor/samples/index.html
