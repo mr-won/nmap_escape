@@ -1,5 +1,7 @@
 # nmap_escape
 nmap_escape_strings nice%20ports%2C/tri%6eity.txt
+디코딩 해보면 nice ports/trinity.txt가 나오는거같은데..
+
 #ckeditor
 
 /ckeditor/samples/index.html
