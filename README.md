@@ -84,3 +84,12 @@ wemakeprice.bak.sql
 0.bak
 1.bak
 web.config.old
+#디렉터리 리스팅
+
+/siteminderagent/ (뒤에 / 까지 붙여야 되는 경우 있다)
+
+/wp-content/uploads/
+
+/icons/
+
+/log/
